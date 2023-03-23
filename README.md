@@ -46,3 +46,5 @@ We welcome contributions to this repository and encourage the public to explore 
 ### **Support**
 If you have any questions about this Repo, please do not hesitate to send us an email with your inquiries. Additionally, if you come across any bugs or have any recommendations for improvements, please contact us at pcarbomestre@bre.ucsb.edu
 
+####
+You can find the original repository with all the files, including revision history, at [](https://github.com/pcarbomestre/interactive-planner-beta).
